@@ -8,4 +8,5 @@ Some text
 2. Ngoc lias is not here
 3. Add forpassword function, update sign up, add alert necessary
 4. verify email, login with admin, update autoLogout when refreshToken expired, research import, export file excel to data table
+5. Add user setting screen, update user function
 
