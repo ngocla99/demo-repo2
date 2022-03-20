@@ -12,4 +12,4 @@ Some text
 6. Add footer, page not found, upload image from local, nghiên cứu header, fix home component
 7. Add preload, tooltip to navigation
 8. Do nothing
-
+9. Do nothing
