@@ -14,3 +14,4 @@ Some text
 8. Do nothing
 9. Do nothing
 10. Do nothing
+11. Responsive Home UI, Navigation
